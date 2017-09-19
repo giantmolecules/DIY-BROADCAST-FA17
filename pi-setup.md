@@ -28,7 +28,7 @@ https://etcher.io/
 
 ### 7. Look for the listing for __*wlan0*__, which is the wireless interface. Write down the IP address that comes after __*inet*__. It should be something like 192.168.###.### You will connect to this address via SSH from the terminal on your laptop in the next step.
 
-### 8. From the Pi's terminal, issue the command __*sudo raspi-config*__ Use the up/down arrow keys to select option 5, __*Interfacing Options*__, then select option P2, __*SSH*__. Answer __*YES*__ to the question: Would you like the SSH server to be enabled?
+### 8. From the Pi's terminal, issue the command __*sudo raspi-config*__ Use the up/down arrow keys to select option 5, __*Interfacing Options*__, then select option P2, __*SSH*__. Answer __*YES*__ to the question: Would you like the SSH server to be enabled? Use tab to select finish. Enter to exit.
 
 ### 9. Issue the command __*sudo shutdown now*__. The raspberry pi will shut down, disconnect screen, keyboard and mouse. Reconnect to power near your laptop.
 
