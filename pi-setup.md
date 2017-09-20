@@ -39,8 +39,9 @@ https://etcher.io/
 ### 12. pi is the username you are logging in with. The default password for the pi user is __*raspberry*__.
 
 ### 13. You will be greeted with the following:
-
+```
 Linux raspberrypi 4.9.41+ #1023 Tue Aug 8 15:47:12 BST 2017 armv6l
+
 
 The programs included with the Debian GNU/Linux system are free software;
 the exact distribution terms for each program are described in the
@@ -54,5 +55,9 @@ SSH is enabled and the default password for the 'pi' user has not been changed.
 This is a security risk - please login as the 'pi' user and type 'passwd' to set a new password.
 
 pi@raspberrypi:~ $
-
+```
 You're in!!!
+
+A linux reference:
+
+https://www.raspberrypi.org/documentation/linux/
